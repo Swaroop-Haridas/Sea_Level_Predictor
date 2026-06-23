@@ -41,7 +41,7 @@ Sea_Level_Predictor/
 ├── README.md
 ├── SeaLevelPredictor.ipynb
 ├── sealevel.xls
-└──sea_level_prediction.png
+└── sea_level_prediction.png
 ```
 
 ## Installation
@@ -96,6 +96,6 @@ The project produces:
 
 ## Sample Output
 
-Add the generated plot here:
+The following visualization shows historical sea level measurements along with regression-based future predictions.
 
 ![Sea Level Prediction](sea_level_prediction.png)
