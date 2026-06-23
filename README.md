@@ -98,6 +98,4 @@ The project produces:
 
 Add the generated plot here:
 
-```markdown
 ![Sea Level Prediction](sea_level_prediction.png)
-```
